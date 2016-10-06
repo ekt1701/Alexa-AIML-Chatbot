@@ -1,6 +1,6 @@
 # Alexa-AIML-Chatbot
 
-A demo of a simple AIML chatbot.  The chatbot will respond to whatever you say, sometimes correctly, other times not.
+A demo of a simple AIML chatbot.  The chatbot will respond to whatever you say, sometimes correctly, other times not. To end the chat, say Stop or Cancel.
 
 Instructions:
 
