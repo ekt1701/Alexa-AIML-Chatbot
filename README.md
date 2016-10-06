@@ -1,6 +1,6 @@
 # Alexa-AIML-Chatbot
 
-A demo of a simple AIML chatbot.  The chatbot will respond to whatever you say, sometimes correctly, other times not. To end the chat, say Stop or Cancel.
+A demo of a simple AIML chatbot.  The chatbot will respond to whatever you say, sometimes correctly, other times not. Try saying "Tell me a joke" or "Tell me a story" To end the chat, say Stop or Cancel.
 
 This is my first attempt at making an AIML chatbot, so I am sure there are ways to improve it.
 
